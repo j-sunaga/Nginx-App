@@ -31,6 +31,11 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
+#GraphQL
+gem 'graphql', '<= 1.7'
+gem 'graphiql-rails', '<= 1.5'
+
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
